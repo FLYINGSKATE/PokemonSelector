@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Which Pokemon?</string>
+    <string-array name="pokemontype">
+        <item>Kanto</item>
+        <item>Sinnoh</item>
+        <item>Kalos</item>
+        <item>Mahim</item>
+    </string-array>
+</resources>
